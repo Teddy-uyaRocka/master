@@ -1,5 +1,5 @@
 An attempt on developing a Simon game.
-A cool way to sharpen your skills in Javascript, HTML and CSS.
+A cool way to sharpen my skills in Javascript, HTML and CSS.
 
 @_tumie_teddy (IG)
 @Kiiing_Teddy (Twiiter)
